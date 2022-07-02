@@ -1,0 +1,50 @@
+using System;
+
+class Desafio {
+    static void Main(string[] args) {
+      double opcaoUsuario = 0;
+      recebeNota();
+      Console.WriteLine("novo calculo (1-sim 2-nao)");
+      while(opcaoUsuario != 2) {
+          opcaoUsuario = double.Parse(Console.ReadLine());
+          if(opcaoUsuario == 1){
+              recebeNota();
+              Console.WriteLine("novo calculo (1-sim 2-nao)");
+          } else if (opcaoUsuario == 2) {
+              break;
+          } else {
+              Console.WriteLine("novo calculo (1-sim 2-nao)");
+          }
+      }
+    }    
+    public static bool verificaSePrimeiraNota(int aux) {
+        if(aux == 0) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public static void recebeNota() {
+        int aux = 0;
+        double nota1 = 0, nota2 = 0, media = 0;
+        while(media == 0) {
+            double nota = double.Parse(Console.ReadLine());
+            if((nota < 0) || (nota > 10)) {
+                Console.WriteLine("nota invalida");
+                media = 0;
+            } else {
+                if(verificaSePrimeiraNota(aux)) {
+                    aux++;
+                    nota1 = nota;
+                } else {
+                    aux = 0;
+                    nota2 = nota;
+                    media = (nota1+nota2)/2;
+                    Console.WriteLine("media = " + media);
+                }
+            }
+        }
+    }
+
+}

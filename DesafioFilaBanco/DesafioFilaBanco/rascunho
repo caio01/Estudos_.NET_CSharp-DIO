@@ -1,0 +1,10 @@
+for(int a = 1; a < x.Count; a++) {
+                    if(x[a] > x[a-1]){
+                        aux2++;
+                    }
+                }
+                if(aux2==1){
+                    Console.WriteLine("0");    
+                }else {
+                    Console.WriteLine((x.Count - aux2));
+                }

@@ -1,0 +1,16 @@
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\refint\EstruturaDoPrograma.dll
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
+C:\Users\cinacio\Documents\Estudos .NET - DIO\01 - Estrutura do Programa\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
